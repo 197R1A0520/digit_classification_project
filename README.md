@@ -1,4 +1,4 @@
-#**digit_classification_project**
+**digit_classification_project**
 
 **Problem Statement:** 
 
